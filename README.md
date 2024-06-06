@@ -1,12 +1,5 @@
 # Basic Port Scanner
 
-**Repository Name:** `basic-port-scanner`
-
-#### README.md
-
-```markdown
-# Basic Port Scanner
-
 A simple Python script for scanning open ports on a specified IP address. The script attempts to connect to a range of ports and reports which ones are open.
 
 ## Features
